@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">ThousandGame</string>
+    <string name="enter_an_amount_of_player">Enter an amount of player.</string>
+    <string name="thousand">Thousand</string>
+    <string name="welcome">Welcome</string>
+    <string name="please_enter_your_names">Please enter your names</string>
+    <string name="start">Start</string>
+    <string name="name">Name</string>
+    <string name="end_turn">End turn</string>
 </resources>

@@ -96,19 +96,7 @@ class GameActivity : AppCompatActivity(), CoroutineScope {
             return
         }
 
-        //todo: endgame
 
-        //todo: improve how player's name looks at their turn, textsize mb padidint???
-
-        //todo: create fields to keep track of limited dice rolls if in a hole + create holes
-
-        //todo: if player isWinner, remove from list until 1 player remains / no players remain? mb tsg gameover?? ye cj
-
-        //todo: add design to game panels
-
-        //todo: add dice animation
-
-        //todo: gameOver screen
 
     }
 
